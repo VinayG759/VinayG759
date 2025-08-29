@@ -1,3 +1,4 @@
+![logo](https://github.com/VinayG759/VinayG759/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vinay G</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
